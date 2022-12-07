@@ -14,12 +14,12 @@
     ],
     "tokens": [
       {
-        "chainId": 1907,
-        "address": "0xECF71b0a85463c0B27887f14bE5568DbF19bb52C",
-        "name": "Wrapped BITCI",
-        "symbol": "WBITCI",
+        "chainId": 43114,
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/bitci/tokens/0xECF71b0a85463c0B27887f14bE5568DbF19bb52C/logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/avax/tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.svg"
         }
     ]
   }
