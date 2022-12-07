@@ -1,0 +1,25 @@
+{
+    "name": "Any Swap Default",
+    "timestamp": "2022-10-20T17:29:34.056Z",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    "keywords": [
+      "uniswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "chainId": 1907,
+        "address": "0xECF71b0a85463c0B27887f14bE5568DbF19bb52C",
+        "name": "Wrapped BITCI",
+        "symbol": "WBITCI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/hyper-swap/swap/main/assets/bitci/tokens/0xECF71b0a85463c0B27887f14bE5568DbF19bb52C/bitci.svg?token=GHSAT0AAAAAAB2PDVZVWUB3DAXORD6O4NHIY4QPSVA"
+        }
+    ]
+  }
