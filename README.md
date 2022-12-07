@@ -1,0 +1,2 @@
+# assets
+Default Blockchain Assets
