@@ -64,6 +64,7 @@
       "decimals": 18
     },
     {
+      "chainId": 1907,
       "name": "MXGP Fan Token",
       "symbol": "MXGP",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MXGP.svg",
@@ -87,6 +88,7 @@
       "decimals": 18
     },
     {
+      "chainId": 1907,
       "name": "RCD Espanyol Fan Token",
       "symbol": "ENFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ENFT.svg",
@@ -94,6 +96,7 @@
       "decimals": 18
     },
     {
+      "chainId": 1907,
       "name": "Kocaelispor Fan Token",
       "symbol": "KSTT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KSTT.svg",
@@ -109,6 +112,7 @@
       "decimals": 18
     },
     {
+      "chainId": 1907,
       "name": "Kripto",
       "symbol": "KRIPTO",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KRIPTO.svg",
@@ -188,6 +192,7 @@
       "decimals": 18
     },
     {
+      "chainId": 1907,
       "name": "Gençlerbirliği Fan Token",
       "symbol": "GBSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/GBSK.svg",
