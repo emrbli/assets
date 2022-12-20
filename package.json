@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "@ersanyakit/token-lists": "^1.0.0-beta.34",
+    "@ersanyakit/token-lists": "^1.0.0-beta.35",
     "ajv": "^8.11.2",
     "ajv-formats": "^2.1.1",
     "node-fetch": "^3.3.0"
