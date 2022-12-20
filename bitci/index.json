@@ -145,7 +145,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Türkiye Basketbol Federasyonu F.T.",
+      "name": "Turkiye Basketbol Federasyonu F.T.",
       "symbol": "TBFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TBFT.svg",
       "address": "0xa3225ae74e9a92f8deef5b857100b31259b998db",
@@ -161,7 +161,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Eskişehir Fan Token",
+      "name": "Eskisehir Fan Token",
       "symbol": "ESES",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ESES.svg",
       "address": "0x97917e2ff8a4d68c4112696924a9d1343f3dd14d",
