@@ -25,7 +25,7 @@
     },
     {
       "chainId": 1907,
-      "name": "McLaren F1 Fan Token",
+      "name": "McLaren F1 Fan F.T.",
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
       "address": "0x38B0b761c90eaaEA748BD3a43199377818D280E6",
@@ -33,7 +33,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Spain National Football Team Token",
+      "name": "Spain National Football Team F.T.",
       "symbol": "SNFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/SNFT.svg",
       "address": "0x3e6f1be54feb9cc37dbfc31a894a8810357c3f9c",
@@ -41,7 +41,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Brazil National Football Team Token",
+      "name": "Brazil National Football Team F.T.",
       "symbol": "BFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BFT.svg",
       "address": "0x4270a3d1a61fc6b86ea9e19730e529acee592c3b",
@@ -49,7 +49,7 @@
     },
     {
       "chainId": 1907,
-      "name": "MotoGP Fan Token",
+      "name": "MotoGP Fan F.T.",
       "symbol": "MGPT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MGPT.svg",
       "address": "0xf6752a3e3e98f745fb726a6521d70456a4219e70",
@@ -57,7 +57,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Peruvian National Football Team Token",
+      "name": "Peruvian National Football Team F.T.",
       "symbol": "FPFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/FPFT.svg",
       "address": "0xed8186908cb406c6f72f8bdd70dc67ae02fb3dbd",
@@ -65,7 +65,7 @@
     },
     {
       "chainId": 1907,
-      "name": "MXGP Fan Token",
+      "name": "MXGP Fan F.T.",
       "symbol": "MXGP",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MXGP.svg",
       "address": "0xf7ac36424da5a498528806a07b4a83dc99ebc074",
@@ -73,7 +73,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Rangers Fan Token",
+      "name": "Rangers Fan F.T.",
       "symbol": "RFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/RFT.svg",
       "address": "0xf930a91a60deb0eb1fe9419a85f95d21badabd34",
@@ -81,7 +81,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Deportivo Alavés Fan Token",
+      "name": "Deportivo Alavés Fan F.T.",
       "symbol": "DAFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/DAFT.svg",
       "address": "0x12e5df050ba34a4b2ca3854546fddbd641e9bd1d",
@@ -89,7 +89,7 @@
     },
     {
       "chainId": 1907,
-      "name": "RCD Espanyol Fan Token",
+      "name": "RCD Espanyol Fan F.T.",
       "symbol": "ENFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ENFT.svg",
       "address": "0xd19dfc6bef955a41a7e233e030aedb2b5319bd7d",
@@ -97,7 +97,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Kocaelispor Fan Token",
+      "name": "Kocaelispor Fan F.T.",
       "symbol": "KSTT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KSTT.svg",
       "address": "0x30bd5a8b8729eb801f771ff213f2450dfa8dc721",
@@ -105,7 +105,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Bursaspor Fan Token",
+      "name": "Bursaspor Fan F.T.",
       "symbol": "TMSH",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TMSH.svg",
       "address": "0xf30d5bf7e9c70c36fa640340034ceec02769ea4b",
@@ -137,7 +137,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Ankaragücü Fan Token",
+      "name": "Ankaragücü Fan F.T.",
       "symbol": "ANKA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ANKA.svg",
       "address": "0x38aa495ffa5ebe2f8f91004922650c29adf12083",
@@ -145,7 +145,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Türkiye Basketbol Federasyonu Token",
+      "name": "Türkiye Basketbol Federasyonu F.T.",
       "symbol": "TBFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TBFT.svg",
       "address": "0xa3225ae74e9a92f8deef5b857100b31259b998db",
@@ -153,7 +153,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Baskonia Fan Token",
+      "name": "Baskonia Fan F.T.",
       "symbol": "BKN",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BKN.svg",
       "address": "0x20410e6ad79d337928c7d10b0e269937062a79ee",
@@ -161,7 +161,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Eskişehir Fan Token",
+      "name": "Eskişehir Fan F.T.",
       "symbol": "ESES",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ESES.svg",
       "address": "0x97917e2ff8a4d68c4112696924a9d1343f3dd14d",
@@ -169,7 +169,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Karşıyaka Taraftar Fan Token",
+      "name": "Karşıyaka Taraftar Fan F.T.",
       "symbol": "KSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KSK.svg",
       "address": "0xf425bc8ad12770fcd039d98681a5d653f5783214",
@@ -177,7 +177,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Türkiye Motosiklet Federasyonu Token",
+      "name": "Türkiye Motosiklet Federasyonu F.T.",
       "symbol": "TMFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TMFT.svg",
       "address": "0x0b37a4e31bf13c0ebd48357e9c9c87040544a5ec",
@@ -185,7 +185,7 @@
     },
     {
       "chainId": 1907,
-      "name": "FC Sion Fan Token",
+      "name": "FC Sion Fan F.T.",
       "symbol": "SION",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/SION.svg",
       "address": "0x6b60afc542ba9669377a54734cf7d322bacfb261",
@@ -193,7 +193,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Gençlerbirliği Fan Token",
+      "name": "Gençlerbirliği Fan F.T.",
       "symbol": "GBSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/GBSK.svg",
       "address": "0x0397b918945ec8A0CCBcFF3cEF95e551ef6B2818",
@@ -201,7 +201,7 @@
     },
     {
       "chainId": 1907,
-      "name": "İstanbul Wild Cats Fan Token",
+      "name": "İstanbul Wild Cats Fan F.T.",
       "symbol": "IWFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/IWFT.svg",
       "address": "0x4b98ac6fdc9ee42884cba54f75847d12329511f0",
@@ -209,7 +209,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Matrak Fan Token",
+      "name": "Matrak Fan F.T.",
       "symbol": "MTRK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MTRK.svg",
       "address": "0x07c6ae17d4fe7952f62f90e6bafc6032a3efa2bb",
@@ -217,7 +217,7 @@
     },
     {
       "chainId": 1907,
-      "name": "RC Celta de Vigo Fan Token",
+      "name": "RC Celta de Vigo Fan F.T.",
       "symbol": "CFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/CFT.svg",
       "address": "0xa0c3b17ab3cf6dfbafc31ae22681e72418f5f4b6",
@@ -241,7 +241,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Denizlispor Fan Token",
+      "name": "Denizlispor Fan F.T.",
       "symbol": "DNZ",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/DNZ.svg",
       "address": "0xb428b0d491516aad256386180945c52423907a61",
@@ -249,7 +249,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Bitci Racing Token",
+      "name": "Bitci Racing F.T.",
       "symbol": "BRACE",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BRACE.svg",
       "address": "0x54824069f225e875c0d7ae006849f4e183f43cdf",
@@ -257,7 +257,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Fatih Karagümrük SK Fan Token",
+      "name": "Fatih Karagümrük SK Fan F.T.",
       "symbol": "FKSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/FKSK.svg",
       "address": "0x4a7521236ea97d99346d17deeb0fe13fcef2cb83",
@@ -265,7 +265,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Adanaspor Fan Token",
+      "name": "Adanaspor Fan F.T.",
       "symbol": "ADANA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ADANA.svg",
       "address": "0x84061ea874ef3d89d40bd5bed7e45075d4c2612e",
@@ -273,7 +273,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Afyonspor Fan Token",
+      "name": "Afyonspor Fan F.T.",
       "symbol": "AFYON",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/AFYON.svg",
       "address": "0xb2c803a0bd2cb8d8e1aa29b961fa703e2de8905d",
@@ -281,7 +281,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Bodrumspor Fan Token",
+      "name": "Bodrumspor Fan F.T.",
       "symbol": "BDRM",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BDRM.svg",
       "address": "0xc34640624be79babc894003aa2be36452e2ae62e",
@@ -289,7 +289,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Coritiba F.C. Fan Token",
+      "name": "Coritiba F.C. Fan F.T.",
       "symbol": "CRTB",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/CRTB.svg",
       "address": "0x1ad3a994c7cec5321c86cbc5225732ed153b9728",
@@ -297,7 +297,7 @@
     },
     {
       "chainId": 1907,
-      "name": "E.C. Vitoria Fan Token",
+      "name": "E.C. Vitoria Fan F.T.",
       "symbol": "VTRA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/VTRA.svg",
       "address": "0x02b8efdffe96218a1fe5d3a815db3d3ee292498a",
