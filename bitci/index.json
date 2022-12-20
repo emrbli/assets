@@ -33,7 +33,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Spain National Football Team Fan Token",
+      "name": "Spain National Football Team Token",
       "symbol": "SNFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/SNFT.svg",
       "address": "0x3e6f1be54feb9cc37dbfc31a894a8810357c3f9c",
@@ -41,7 +41,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Brazil National Football Team Fan Token",
+      "name": "Brazil National Football Team Token",
       "symbol": "BFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BFT.svg",
       "address": "0x4270a3d1a61fc6b86ea9e19730e529acee592c3b",
@@ -177,7 +177,7 @@
     },
     {
       "chainId": 1907,
-      "name": "Türkiye Motosiklet Federasyonu Fan Token",
+      "name": "Türkiye Motosiklet Federasyonu Token",
       "symbol": "TMFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TMFT.svg",
       "address": "0x0b37a4e31bf13c0ebd48357e9c9c87040544a5ec",
