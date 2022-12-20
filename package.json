@@ -4,6 +4,8 @@
     "@ersanyakit/token-lists": "^1.0.0-beta.35",
     "ajv": "^8.11.2",
     "ajv-formats": "^2.1.1",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
     "node-fetch": "^3.3.0"
   }
 }
