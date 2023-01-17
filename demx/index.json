@@ -47,6 +47,14 @@
       "symbol": "DXAG",
       "decimals": 18,
       "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x1358f5e42552af5cD1c89d4CD5aFd4d455166529/logo.svg"
+    },
+    {
+      "chainId": 10630,
+      "address": "0x9d8A35117BC3cc6eFfA03fF6B1f83847c3f3cF80",
+      "name": "USDX",
+      "symbol": "USDX",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x9d8A35117BC3cc6eFfA03fF6B1f83847c3f3cF80/logo.svg"
     }
   ]
 }
