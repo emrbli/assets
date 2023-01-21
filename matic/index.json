@@ -23,7 +23,7 @@
   
     {
       "chainId": 80001,
-      "address": "0x565D8908447750908857b05a99AF41130C0df676",
+      "address": "0xaB4d5e5d24ae5C2b67f88c8e1e7a1404fFF0B116",
       "name": "DXAU",
       "symbol": "DXAU",
       "decimals": 18,
@@ -31,7 +31,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0x1C85FD5b717B2502283e90eE4C2a04Ff37e75A38",
+      "address": "0xcdB2467801122747cd9b350d3003792B99437807",
       "name": "DXCU",
       "symbol": "DXCU",
       "decimals": 18,
@@ -39,7 +39,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0xb6C3b93903B7f4c7ab31D58Ca79A6adA932637F8",
+      "address": "0x899Eb6D642cDF068EA6AEF249656a7518A36bE6F",
       "name": "DXAG",
       "symbol": "DXAG",
       "decimals": 18,
@@ -47,7 +47,7 @@
     },
     {
       "chainId": 80001,
-      "address": "0x970474af8faA3dd68A87ff2a0C6E3da8BbCCCCb6",
+      "address": "0x9F8553B9fFb5873073631F51B0DECE8c073554a7",
       "name": "USDX",
       "symbol": "USDX",
       "decimals": 18,
