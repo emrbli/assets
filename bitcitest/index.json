@@ -1,0 +1,60 @@
+{
+  "name": "Any Swap Default",
+  "timestamp": "2023-01-17T16:36:34.056Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xd050c26B51794689E8e13Ab4567B0D9E000C7777/logo.svg",
+  "keywords": [
+    "demx",
+    "default",
+    "tokens",
+    "defi",
+    "refi"
+  ],
+  "tokens": [
+    {
+      "chainId": 10630,
+      "address": "0x6f83fBEF52700357E55CB1c8c8F888B2CAFbD4ec",
+      "name": "Wrapped DEMX",
+      "symbol": "WDEMX",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xd050c26B51794689E8e13Ab4567B0D9E000C7777/logo.svg"
+    },
+    {
+      "chainId": 10630,
+      "address": "0x3677C6C2b3aB5a88D57ECdAAA80726e770cd1139",
+      "name": "DXAU",
+      "symbol": "DXAU",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xEf8D04E27D01b9E6b8EA7650472FbFdCB217fB7B/logo.svg"
+    },
+    {
+      "chainId": 10630,
+      "address": "0xcAd24Bb9E9b417B9E3C4ac55AdC08022aeBE5425",
+      "name": "DXCU",
+      "symbol": "DXCU",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x8e7AF9F57052c7F8b4475e2BF40b9fa64aA78b3A/logo.svg"
+    },
+    {
+      "chainId": 10630,
+      "address": "0xd63D6735d9Fb5179Be3CC84850afD5428646D287",
+      "name": "DXAG",
+      "symbol": "DXAG",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x1358f5e42552af5cD1c89d4CD5aFd4d455166529/logo.svg"
+    },
+    {
+      "chainId": 10630,
+      "address": "0x6Ff987fe55E1f5e8A253Bd948103527F7e0B1Bf6",
+      "name": "USDX",
+      "symbol": "USDX",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x9d8A35117BC3cc6eFfA03fF6B1f83847c3f3cF80/logo.svg"
+    }
+  ]
+}
