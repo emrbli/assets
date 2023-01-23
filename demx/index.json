@@ -18,6 +18,14 @@
   "tokens": [
     {
       "chainId": 10630,
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+      "name": "DEMX",
+      "symbol": "DEMX",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/matic/tokens/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.svg"
+    },
+    {
+      "chainId": 10630,
       "address": "0xd050c26B51794689E8e13Ab4567B0D9E000C7777",
       "name": "Wrapped DEMX",
       "symbol": "WDEMX",
