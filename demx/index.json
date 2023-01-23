@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xd050c26B51794689E8e13Ab4567B0D9E000C7777/logo.svg",
+  "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.svg",
   "keywords": [
     "demx",
     "default",
@@ -22,7 +22,7 @@
       "name": "DEMX",
       "symbol": "DEMX",
       "decimals": 18,
-      "logoURI": "https://defaulttokenlist.github.io/assets/matic/tokens/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.svg"
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.svg"
     },
     {
       "chainId": 10630,
