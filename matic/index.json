@@ -80,7 +80,7 @@
     },
     {
       "chainId": 10630,
-      "address": "",
+      "address": "0x9E6689BeaB8Ddb87298369F74f23E033F6219d6a",
       "name": "DXPT",
       "symbol": "DXPT",
       "decimals": 18,
@@ -90,17 +90,17 @@
     },
     {
       "chainId": 10630,
-      "address": "",
+      "address": "0xC21081A96c97ae3FDea9dBf9c611BbDf49D05692",
       "name": "DXPD",
       "symbol": "DXPD",
       "decimals": 18,
       "logoURI": "",
       "description":"DemX Palladium (DXPD) is a digital currency. Each DXPD represents one gram of physical palladium. DXPD lets you spend, trade, send and earn physical palladium, anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
-      "colors": ["#ea61a1","#f05000"]
+      "colors": ["#ea61a1","#ff0055"]
     },
     {
       "chainId": 10630,
-      "address": "",
+      "address": "0x07bb74cE6bAA553a362c9644AFB215e6BA8dEfdA",
       "name": "DXAL",
       "symbol": "DXAL",
       "decimals": 18,
