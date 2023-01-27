@@ -19,7 +19,9 @@
         "name": "Wrapped AVAX",
         "symbol": "WAVAX",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/avax/tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/defaulttokenlist/assets/main/avax/tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.svg",
+        "description": "",
+        "colors": []
         }
     ]
   }
