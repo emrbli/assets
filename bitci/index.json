@@ -21,9 +21,7 @@
       "name": "Wrapped BITCI",
       "symbol": "WBITCI",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg",
-      "description":"",
-      "colors": []
+      "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BITCI.svg"
     },
     {
       "chainId": 1907,
@@ -31,9 +29,7 @@
       "symbol": "MCL",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MCL.svg",
       "address": "0x38B0b761c90eaaEA748BD3a43199377818D280E6",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -41,9 +37,7 @@
       "symbol": "SNFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/SNFT.svg",
       "address": "0x3e6f1be54feb9cc37dbfc31a894a8810357c3f9c",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -51,9 +45,7 @@
       "symbol": "BFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BFT.svg",
       "address": "0x4270a3d1a61fc6b86ea9e19730e529acee592c3b",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -61,9 +53,7 @@
       "symbol": "MGPT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MGPT.svg",
       "address": "0xf6752a3e3e98f745fb726a6521d70456a4219e70",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -71,9 +61,7 @@
       "symbol": "FPFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/FPFT.svg",
       "address": "0xed8186908cb406c6f72f8bdd70dc67ae02fb3dbd",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -81,9 +69,7 @@
       "symbol": "MXGP",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MXGP.svg",
       "address": "0xf7ac36424da5a498528806a07b4a83dc99ebc074",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -91,9 +77,7 @@
       "symbol": "RFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/RFT.svg",
       "address": "0xf930a91a60deb0eb1fe9419a85f95d21badabd34",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -101,9 +85,7 @@
       "symbol": "DAFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/DAFT.svg",
       "address": "0x12e5df050ba34a4b2ca3854546fddbd641e9bd1d",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -111,9 +93,7 @@
       "symbol": "ENFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ENFT.svg",
       "address": "0xd19dfc6bef955a41a7e233e030aedb2b5319bd7d",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -121,9 +101,7 @@
       "symbol": "KSTT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KSTT.svg",
       "address": "0x30bd5a8b8729eb801f771ff213f2450dfa8dc721",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -131,9 +109,7 @@
       "symbol": "TMSH",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TMSH.svg",
       "address": "0xf30d5bf7e9c70c36fa640340034ceec02769ea4b",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -141,9 +117,7 @@
       "symbol": "KRIPTO",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KRIPTO.svg",
       "address": "0xcb2263b182131dbb9824bf406c8f8acb65b54808",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -151,9 +125,7 @@
       "symbol": "INCI",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/INCI.svg",
       "address": "0x23543c1dd44777de9bb4c0cc9ecb352402f68a58",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -161,9 +133,7 @@
       "symbol": "CHFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/CHFT.svg",
       "address": "0x189d149377756a2f8D3bDa4804bd7DaEbc931ECf",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -171,9 +141,7 @@
       "symbol": "ANKA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ANKA.svg",
       "address": "0x38aa495ffa5ebe2f8f91004922650c29adf12083",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -181,9 +149,7 @@
       "symbol": "TBFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TBFT.svg",
       "address": "0xa3225ae74e9a92f8deef5b857100b31259b998db",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -191,9 +157,7 @@
       "symbol": "BKN",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BKN.svg",
       "address": "0x20410e6ad79d337928c7d10b0e269937062a79ee",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -201,9 +165,7 @@
       "symbol": "ESES",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ESES.svg",
       "address": "0x97917e2ff8a4d68c4112696924a9d1343f3dd14d",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -211,9 +173,7 @@
       "symbol": "KSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/KSK.svg",
       "address": "0xf425bc8ad12770fcd039d98681a5d653f5783214",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -221,9 +181,7 @@
       "symbol": "TMFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/TMFT.svg",
       "address": "0x0b37a4e31bf13c0ebd48357e9c9c87040544a5ec",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -231,9 +189,7 @@
       "symbol": "SION",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/SION.svg",
       "address": "0x6b60afc542ba9669377a54734cf7d322bacfb261",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -241,9 +197,7 @@
       "symbol": "GBSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/GBSK.svg",
       "address": "0x0397b918945ec8A0CCBcFF3cEF95e551ef6B2818",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -251,9 +205,7 @@
       "symbol": "IWFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/IWFT.svg",
       "address": "0x4b98ac6fdc9ee42884cba54f75847d12329511f0",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -261,9 +213,7 @@
       "symbol": "MTRK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/MTRK.svg",
       "address": "0x07c6ae17d4fe7952f62f90e6bafc6032a3efa2bb",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -271,9 +221,7 @@
       "symbol": "CFT",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/CFT.svg",
       "address": "0xa0c3b17ab3cf6dfbafc31ae22681e72418f5f4b6",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -281,9 +229,7 @@
       "symbol": "ALBEDO",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ALBEDO.svg",
       "address": "0xc7857e34576b5db79414092ce244c8ecf7805318",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -291,9 +237,7 @@
       "symbol": "NR1",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/NR1.svg",
       "address": "0xa9c4f5024eaf74a3daa4b7afe83b9eca7aa9eeca",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -301,9 +245,7 @@
       "symbol": "DNZ",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/DNZ.svg",
       "address": "0xb428b0d491516aad256386180945c52423907a61",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -311,9 +253,7 @@
       "symbol": "BRACE",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BRACE.svg",
       "address": "0x54824069f225e875c0d7ae006849f4e183f43cdf",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -321,9 +261,7 @@
       "symbol": "FKSK",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/FKSK.svg",
       "address": "0x4a7521236ea97d99346d17deeb0fe13fcef2cb83",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -331,9 +269,7 @@
       "symbol": "ADANA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/ADANA.svg",
       "address": "0x84061ea874ef3d89d40bd5bed7e45075d4c2612e",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -341,9 +277,7 @@
       "symbol": "AFYON",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/AFYON.svg",
       "address": "0xb2c803a0bd2cb8d8e1aa29b961fa703e2de8905d",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -351,9 +285,7 @@
       "symbol": "BDRM",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/BDRM.svg",
       "address": "0xc34640624be79babc894003aa2be36452e2ae62e",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -361,9 +293,7 @@
       "symbol": "CRTB",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/CRTB.svg",
       "address": "0x1ad3a994c7cec5321c86cbc5225732ed153b9728",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     },
     {
       "chainId": 1907,
@@ -371,9 +301,7 @@
       "symbol": "VTRA",
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/VTRA.svg",
       "address": "0x02b8efdffe96218a1fe5d3a815db3d3ee292498a",
-      "decimals": 18,
-      "description":"",
-      "colors": []
+      "decimals": 18
     }
   ]
 }

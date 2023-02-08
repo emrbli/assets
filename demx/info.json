@@ -1,0 +1,109 @@
+{
+  "name": "Any Swap Default",
+  "timestamp": "2023-01-17T16:36:34.056Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.svg",
+  "keywords": [
+    "demx",
+    "default",
+    "tokens",
+    "defi",
+    "refi"
+  ],
+  "tokens": [{
+    "chainId": 10630,
+    "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+    "name": "DEMX",
+    "symbol": "DEMX",
+    "decimals": 18,
+    "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE/logo.svg",
+    "description": "The DemX is the native utility token of the DemX protocol which uses PoA consensus.  The DemX has a kind of ETF structure and backed by various precious metals which makes it easy for investors to diversify their portfolios.",
+    "colors": ["#3fd6ff", "#50b5ff", "#658cff", "#756eff", "#7f5cff", "#737af2"]
+  },
+    {
+      "chainId": 10630,
+      "address": "0xd050c26B51794689E8e13Ab4567B0D9E000C7777",
+      "name": "Wrapped DEMX",
+      "symbol": "WDEMX",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xd050c26B51794689E8e13Ab4567B0D9E000C7777/logo.svg",
+      "description": "The DemX is the native utility token of the DemX protocol which uses PoA consensus.  The DemX has a kind of ETF structure and backed by various precious metals which makes it easy for investors to diversify their portfolios.",
+      "colors": ["#3fd6ff", "#50b5ff", "#658cff", "#756eff", "#7f5cff", "#737af2"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0xEf8D04E27D01b9E6b8EA7650472FbFdCB217fB7B",
+      "name": "DXAU",
+      "symbol": "DXAU",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xEf8D04E27D01b9E6b8EA7650472FbFdCB217fB7B/logo.svg",
+      "description": "DemX Gold (DXAU) is a digital currency. Each DXAU represents one gram of physical gold. DXAU lets you spend, trade, send and earn physical gold, anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
+      "colors": ["#dfbd69", "#926f34"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0x8e7AF9F57052c7F8b4475e2BF40b9fa64aA78b3A",
+      "name": "DXCU",
+      "symbol": "DXCU",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x8e7AF9F57052c7F8b4475e2BF40b9fa64aA78b3A/logo.svg",
+      "description": "DemX Copper (DXCU) is a digital currency. Each DXCU represents one gram of physical copper. DXCU lets you spend, trade, send and earn physical copper, anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
+      "colors": ["#bf816a", "#553124"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0x1358f5e42552af5cD1c89d4CD5aFd4d455166529",
+      "name": "DXAG",
+      "symbol": "DXAG",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x1358f5e42552af5cD1c89d4CD5aFd4d455166529/logo.svg",
+      "description": "DemX Silver (DXAG) is a digital currency. Each DXAG represents one gram of physical silver. DXAG lets you spend, trade, send and earn physical silver, anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
+      "colors": ["#f6f9fc", "#797979"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0x9E6689BeaB8Ddb87298369F74f23E033F6219d6a",
+      "name": "DXPT",
+      "symbol": "DXPT",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x9E6689BeaB8Ddb87298369F74f23E033F6219d6a/logo.svg",
+      "description": "DemX Platinum  (DXPT) is a digital currency. Each DXPT represents one gram of physical Platinum . DXPT lets you spend, trade, send and earn physical Platinum , anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
+      "colors": ["#88b1ff", "#09388b"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0xC21081A96c97ae3FDea9dBf9c611BbDf49D05692",
+      "name": "DXPD",
+      "symbol": "DXPD",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0xC21081A96c97ae3FDea9dBf9c611BbDf49D05692/logo.svg",
+      "description": "DemX Palladium (DXPD) is a digital currency. Each DXPD represents one gram of physical palladium. DXPD lets you spend, trade, send and earn physical palladium, anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
+      "colors": ["#ea61a1", "#ff0055"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0x07bb74cE6bAA553a362c9644AFB215e6BA8dEfdA",
+      "name": "DXAL",
+      "symbol": "DXAL",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x07bb74cE6bAA553a362c9644AFB215e6BA8dEfdA/logo.svg",
+      "description": "DemX Aluminum (DXAL) is a digital currency. Each DXAL represents one gram of physical aluminum. DXAL lets you spend, trade, send and earn physical aluminum, anywhere in the world. The circulating supply of tokens are always equalized to the stored supply in a 1:1 ratio via our smart contracts.",
+      "colors": ["#C0C0C0", "#0d0606"]
+    },
+    {
+      "chainId": 10630,
+      "address": "0x9d8A35117BC3cc6eFfA03fF6B1f83847c3f3cF80",
+      "name": "USDX",
+      "symbol": "USDX",
+      "decimals": 18,
+      "logoURI": "https://defaulttokenlist.github.io/assets/demx/tokens/0x9d8A35117BC3cc6eFfA03fF6B1f83847c3f3cF80/logo.svg",
+      "description": "USDX on DemX network is a token representing USDT on Polygon Network that was bridged from the Polygon blockchain via the DemX Bridge.",
+      "colors": ["#24ceee", "#22eab9"]
+    }
+  ]
+}
